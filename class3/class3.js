@@ -1,23 +1,24 @@
 //a
-let a ="myvariable"
-console.log(a)
+let myvariable =//legal
+console.log(myvariable)
 //b
-let b ="123variable"
-console.log(b)
+let 123variable = //illegal
+
+console.log(123variable)
 
 // c)
-let c = "_special";
-console.log(c);
-let d = "first name";
-console.log(d);
+let _special =//legal;
+console.log(_special);
+let first name = //illegal;
+console.log(first name);
 // e)
-let e = "7eleven";
-console.log(e)
+let 7eleven = //illegal;
+console.log(7eleven)
 // f)
-let f = "$price";
-console.log(f);
+let $price = //legal;
+console.log($price);
 // g)
- let g = "your-variable";
+ let your-variable = //illegal ;
 console.log(g)
 
 
