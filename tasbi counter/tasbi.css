@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.tasbeeh {
+    background-color: aliceblue;
+    width: 300px;
+    margin: 100px;
+    padding: 30px;
+
+
+}
+h1 {
+    color: green;
+
+
+}
+h2{
+    font-size: 50px;
+}
+button{
+    background: green;
+    color: aliceblue;
+
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
